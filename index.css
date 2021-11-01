@@ -6,7 +6,7 @@ body {
 	background-color: #000
 }
 #console {
-	font-family: OCR A Std, monospace;
+	font-family: courier;
 	color: #fff;
 	width:750px;
 	margin-left:auto;
