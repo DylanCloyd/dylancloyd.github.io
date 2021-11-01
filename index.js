@@ -195,7 +195,7 @@ function replaceUrls(text) {
 Typer.speed=3;
 Typer.file="dylan-cloyd.txt";
 Typer.speed = 3;
-Typer.file = 'dylan-cloyd.txt';
+Typer.file = "dylan-cloyd.tx";
 Typer.init();
  
 var timer = setInterval("t();", 30);
