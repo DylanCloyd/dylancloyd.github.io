@@ -3,7 +3,7 @@ var Typer={
 	text: null,
 	accessCountimer:null,
 	index:0, 
-	speed:3,
+	speed: 1,
 	file:"", 
 	accessCount:0,
 	deniedCount:0, 
@@ -88,7 +88,7 @@ var Typer = {
   text: '',
   accessCountimer: null,
   index: 0,
-  speed: 3,
+  speed: 1,
   file: '',
   accessCount: 0,
   deniedCount: 0,
@@ -192,15 +192,15 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed=3;
+Typer.speed= 1;
 Typer.file="dylan-cloyd.txt";
-Typer.speed = 3;
-Typer.file = "dylan-cloyd.tx";
+Typer.speed = 1;
+Typer.file ="dylan-cloyd.txt";
 Typer.init();
  
-var timer = setInterval("t();", 30);
+var timer = setInterval("t();", 40);
 
-var timer = setInterval('t();', 30);
+var timer = setInterval('t();', 40);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	

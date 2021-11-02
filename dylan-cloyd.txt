@@ -1,14 +1,14 @@
 
-<span id="a">user@DX0</span>:<span id="b">~</span><span id="c">$</span> cd dylan-cloyd/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">user@DX0</span>:<span id="b">~</span><span id="c">$</span> cd dylan-cloyd/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
 <span id="a">user@DX0</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dylan-cloyd.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+Quote of the week --> "<span id="k"> I can calculate the motion of heavenly bodies but not the madness of people </span>" <span id="b">         ∼ Isaac Newton </span><!-- 000000000000000 -->
 
-Hello, user@DX0 <span id="a"><!-- 000000000000000000000000000000000000000 -><p>You can see that, this is how your portfolio would look like.</p>
+Hello <span id="a">user@DX0</span> <span id="a"><!-- 000000000000000000000000 ->
 <p>You can introduce yourself here.</p> <!-- 0000000000000000000000000000000000000000 -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- 00000000000000000000000000000000000000000000-->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="https://drive.google.com/file/d/1nO4sJZYQCTcEJArBP64gzLcWiXGRCMf1/view?usp=sharing"> Here you go</a>.</p><!-- 00000000000000000000000000000000000000000000000000-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> <br><br> This is a small landing page where I host some of my work, more can be found in depth on my github  <a href="https://github.com/DylanCloyd"> profile</a>.</p><!-- 00000000000000000000000000000000000000000000-->
+<p>Here is a link where you can download my CV. <a href="https://drive.google.com/file/d/1nO4sJZYQCTcEJArBP64gzLcWiXGRCMf1/view?usp=sharing"> [  My Resume  ]</a>.</p><!-- 00000000000000000000000000000000000000000000000000-->
+<p> Here are some places on the internet where you can find my work: <br><br> <a href="https://www.linkedin.com/in/dylan-cloyd-4341201b5/">LinkedIn</a> <br><br> <a href="https://www.upwork.com/freelancers/~01005434089deaf0d2">UpWork</a>  <br><br> <a href="https://stackoverflow.com/users/17303799/dylan-cloyd">StackOverflow</a><!-- 000000000000000 --></p>
 
-You can also give your email ID for contacting you<!-- 000000000000000000000-->, feel free to send me an email at<!-- 000000000000000000000000000000000--><a href="dylancloyd@gmail.com">dylancloyd@gmail.com</a>.
+You can also give your email ID for contacting you<!-- 000000000000000000000-->, feel free to send me an email at<!-- 000000000000000000000000000000000--><a href="dylancloyd@gmail.com">  dylancloyd@gmail.com</a>.
 
-<p>Cheers!</p>
+<p>Thanks for stopping by, I look forward to hearing from you !</p>
