@@ -1,7 +1,8 @@
 
+Quote of the week --> "<span id="k"> I can calculate the motion of heavenly bodies but not the madness of people </span>" <span id="b">         ∼ Isaac Newton </span><!-- 000000000000000 -->
+
 <span id="a">user@DX0</span>:<span id="b">~</span><span id="c">$</span> cd dylan-cloyd/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
 <span id="a">user@DX0</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->dylan-cloyd.txt<br/><br/>
-Quote of the week --> "<span id="k"> I can calculate the motion of heavenly bodies but not the madness of people </span>" <span id="b">         ∼ Isaac Newton </span><!-- 000000000000000 -->
 
 Hello <span id="a">user@DX0</span> <span id="a"><!-- 000000000000000000000000 ->
 <p>You can introduce yourself here.</p> <!-- 0000000000000000000000000000000000000000 -->
